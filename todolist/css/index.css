@@ -1,0 +1,37 @@
+*{padding:0;margin:0;}
+.box{width:600px;background:#dddddd;margin:20px auto;padding:0 0 20px 0}
+h1{padding:20px 0;text-align:center;}
+.selectBox{height:40px;line-height:40px;padding:0 20px;}
+.selectBox .addtxt{width:450px;height:25px;}
+.selectBox .addbtn{width:100px;height:29px;}
+ul li{list-style:none;}
+.todolist{padding:0 20px;}
+.todolist .will{background:#fff;padding:0 15px;height:26px;line-height:26px;color:gray;font-size:14px;
+            margin-bottom:10px;}
+.todolist .will .delete{display:none; float:right;color:red;font-size:14px;cursor:pointer;margin-left:20px;}
+.todolist .will .edit{display:none; float:right;color:red;font-size:14px;cursor:pointer;}
+.todolist .will .editIpn{width:400px;}
+.todolist .will:hover .delete{display:block;}
+.todolist .will:hover .edit{display:block;}
+.batch{height:40px;height:40px;padding:0 25px;font-size:14px;}
+.batch span:nth-of-type(1){color:blue;margin-right:20px;}
+.batch .done{color:blue;margin-right:20px;}
+.batch .removes{color:blue;}
+.donelist{padding:0 20px;}
+.donelist li{padding:0 15px;height:26px;line-height:26px;background:#ccc;color:gray;margin-bottom:10px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
